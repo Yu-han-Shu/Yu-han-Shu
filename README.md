@@ -1,13 +1,13 @@
 # Yuhan Shu
 
-Undergraduate at **Nanjing University**. I work across **AI agents, world models, graphics, and quantitative research**.
+Undergraduate at **Nanjing University**. My main interests are **AI agents, world models, and embodied intelligence**, with related work in **graphics, algorithmic modeling, and quantitative research**.
 
 I like turning research ideas into small, testable systems - with clear assumptions, reproducible experiments, and honest limitations.
 
-## Current interests
+## Research interests
 
-- **AI agents & mathematical reasoning** - solver-verifier workflows, tool use, evaluation, and multi-agent coordination
-- **World models** - reading and organizing recent work on learned environment models and structured prediction
+- **AI agents & mathematical reasoning** - tool use, solver-verifier workflows, evaluation, and multi-agent coordination
+- **World models & embodied intelligence** - reading and organizing recent work on learned environment models, perception, planning, and action
 - **Graphics & 3D algorithms** - reconstruction, UV-to-3D localization, point-cloud geometry, and navigation
 - **Quantitative research** - independent factor research, validation, and research-oriented backtesting
 
@@ -27,4 +27,3 @@ I like turning research ideas into small, testable systems - with clear assumpti
 **Languages:** Python, C/C++, TypeScript, MATLAB  
 **Research & libraries:** NumPy, pandas, SciPy, scikit-learn, SymPy, Open3D, COLMAP  
 **Practice:** Git/GitHub, testing, experiment tracking, LaTeX
-

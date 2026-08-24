@@ -22,6 +22,10 @@ Undergraduate at **Nanjing University**. I like turning research ideas into smal
 | [Synera Auto Arena](https://github.com/Yu-han-Shu/PA-Synera-Synergy-Auto-Arena) | C++ / Qt object-oriented simulation prototype with state-machine logic |
 | [New-Energy Strategic Radar](https://github.com/Yu-han-Shu/new-energy-strategic-radar) | TypeScript data product built around structured, de-identified sample data |
 
+## Publication & early research
+
+- **Xu, X.; Shu, Y.** [“跨学科研究性学习：‘拔创人才’前置培养的有效路径——以‘匀变速直线运动的位移与时间的关系’为例”](https://www.rdfybk.com/qw/detail?id=861333), *中学物理*, 2024(11), 6–8. **Full-text reprinted** in *人大复印报刊资料·中学物理教与学*, 2024(08). Second author; contributed to the Python-based interdisciplinary study.
+
 ## Selected signals
 
 - **BigAlpha 2026 AI track** — public leaderboard **#4** with the Agentic Alphas team

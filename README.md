@@ -12,10 +12,16 @@ Undergraduate at **Nanjing University**. I like turning research ideas into smal
 - **Graphics & 3D** — reconstruction, UV-to-3D localization, point-cloud geometry, and navigation
 - **Quantitative research** — independent factor research, validation, and research-oriented backtesting
 
+## Industry internship
+
+During my internship at **Jiangsu Runlan Times New Energy Technology Co., Ltd.**, I contributed to two new-energy projects spanning industry research, product design, data engineering, and AI-enabled workflows. The company is the internship host; the Nanjing University Business School “Mantianxing” summer practice program is the project background.
+
 ## Selected work
 
 | Project | What it demonstrates |
 | --- | --- |
+| [New-Energy Strategic Insight Platform](https://github.com/Yu-han-Shu/runlan-insight) | Internship project for Jiangsu Runlan Times New Energy Technology Co., Ltd.; structured industry intelligence, review, publishing, search, and team evaluation |
+| [NJU New-Energy Industry Community Mini Program](https://github.com/Yu-han-Shu/nju-new-energy-community) | Internship project for a new-energy industry community; local WeChat mini-program demo with access, profiles, demands, messaging, and governance flows |
 | [MathAgent Demo](https://github.com/Yu-han-Shu/mathagent_demo) | Solver–verifier workflow with symbolic tools and reproducible offline reports |
 | [RealityScan UV-to-3D Navigation](https://github.com/Yu-han-Shu/realityscan-uv3d-navigation) | 3D localization and collision-aware point-cloud path planning |
 | [Quant Factor Research Lab](https://github.com/Yu-han-Shu/quant-factor-research-lab) | Modular factor evaluation, walk-forward validation, and cost-aware portfolios |

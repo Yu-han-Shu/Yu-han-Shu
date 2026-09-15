@@ -5,6 +5,8 @@ with related work in **graphics / 3D algorithms** and **quantitative research**.
 
 Undergraduate at **Nanjing University**. I like turning research ideas into small, testable systems — with explicit assumptions, reproducible experiments, and honest limitations.
 
+**Contact:** [yuhanshu@smail.nju.edu.cn](mailto:yuhanshu@smail.nju.edu.cn)
+
 ## Research map
 
 - **AI agents & mathematical reasoning** — solver–verifier workflows, tool use, evaluation, and coordination

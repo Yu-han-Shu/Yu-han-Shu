@@ -37,6 +37,7 @@ During my internship at **Jiangsu Runlan Times New Energy Technology Co., Ltd.**
 - **BigAlpha 2026 AI track** — public leaderboard **#4** with the Agentic Alphas team
 - **NJU LAMDA undergraduate research** — mathematical reasoning and world-model literature review
 - **CCF Graphics Rising Star Summer Camp** — selected participant, 2026.08
+- **IEEE Student Member** — professional affiliation
 
 ## Toolbox
 

@@ -5,7 +5,8 @@ with related work in **graphics / 3D algorithms** and **quantitative research**.
 
 Undergraduate at **Nanjing University**. I like turning research ideas into small, testable systems — with explicit assumptions, reproducible experiments, and honest limitations.
 
-**Contact:** [yuhanshu@smail.nju.edu.cn](mailto:yuhanshu@smail.nju.edu.cn)
+**Contact:** [yuhanshu@smail.nju.edu.cn](mailto:yuhanshu@smail.nju.edu.cn)<br>
+**Mailing address:** Yuhan Shu, P.O. Box 3605, Nanjing, Jiangsu 210036, China
 
 ## Research map
 

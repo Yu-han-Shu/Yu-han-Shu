@@ -27,6 +27,7 @@ During my internship at **Jiangsu Runlan Times New Energy Technology Co., Ltd.**
 
 | Project | What it demonstrates |
 | --- | --- |
+| [CUMCM 2026: Interference-Source Localization & Search](https://yu-han-shu.github.io/#cumcm) | Jiangsu Provincial First Prize (江苏赛区一等奖), Problem B; team modeling with bounded-error localization, minimax robust optimization, sequential decisions, and rolling path optimization |
 | [New-Energy Strategic Insight Platform](https://github.com/Yu-han-Shu/runlan-insight) | Internship project for Jiangsu Runlan Times New Energy Technology Co., Ltd.; structured industry intelligence, review, publishing, search, and team evaluation |
 | [NJU New-Energy Industry Community Mini Program](https://github.com/Yu-han-Shu/nju-new-energy-community) | Internship project for a new-energy industry community; local WeChat mini-program demo with access, profiles, demands, messaging, and governance flows |
 | [MathAgent Demo](https://github.com/Yu-han-Shu/mathagent_demo) | Solver–verifier workflow with symbolic tools and reproducible offline reports |
@@ -37,6 +38,7 @@ During my internship at **Jiangsu Runlan Times New Energy Technology Co., Ltd.**
 
 ## Selected signals
 
+- **CUMCM 2026** — **Jiangsu Provincial First Prize (江苏赛区一等奖)**, China Undergraduate Mathematical Contest in Modeling; team member, Problem B
 - **BigAlpha 2026 AI track** — public leaderboard **#4** with the Agentic Alphas team
 - **NJU LAMDA undergraduate research** — mathematical reasoning and world-model literature review
 - **CCF Graphics Rising Star Summer Camp** — selected participant, 2026.08
